@@ -24,9 +24,9 @@ function SpendingLogs() {
   const {currentValue} = useValue();
   return (
     <View>
-      <Text>Home screen for {currentValue.spent}  </Text>
-      <Text> with email {currentValue.spentOn}</Text>
-      <Text> and secret {currentValue.description}</Text>
+      <Text>Spend is: {currentValue.spent}  </Text>
+      <Text> sepnded on: {currentValue.spentOn}</Text>
+      <Text> description: {currentValue.description}</Text>
     </View>
   );
 }
