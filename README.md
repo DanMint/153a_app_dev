@@ -2,8 +2,27 @@
 This project was for the summer course of the 2022 at Brandeis univeristy. In this project I have created a financial planner. The project has 3 screens.
 the first screen is called "Home" and is used to log in a new spenditure here i use hooks and asyncStorage. The second screen is called "Crypto check" here we use API to check for current crypto prices and the last screen is  called "Bio" this screen has basic info about me.
 
-To run the app locally: 1. dowlaod the zip. 2. have npm intsalled on laptop and write npm install. 3. write npm start
+To run the app localy: 
+    
+    1. Dowload the zip file 
+    2. have npm and type npm install in the terminal 
+    3. write npm start
+    
+Needed dependencies: 
 
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "http-errors": "~1.6.3",
+    "mongoose": "^6.4.1",
+    "morgan": "~1.9.1"
+    
+ 
 <p float="left">
  <img width="1431" alt="Screen Shot 2022-07-08 at 6 39 21 PM" src="https://user-images.githubusercontent.com/67702241/178078871-0f3e08db-bab6-475f-84e2-f4e4f591bdd4.png">
   <img width="1440" alt="Screen Shot 2022-07-08 at 6 39 25 PM" src="https://user-images.githubusercontent.com/67702241/178078876-48ab4799-707c-4fc0-b74d-a010b1c0861d.png">
