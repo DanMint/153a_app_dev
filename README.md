@@ -10,17 +10,20 @@ To run the app localy:
     
 Needed dependencies: 
 
-    "axios": "^0.27.2",
-    "bcrypt": "^5.0.1",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "express-ejs-layouts": "^2.5.1",
-    "express-session": "^1.17.3",
-    "http-errors": "~1.6.3",
-    "mongoose": "^6.4.1",
-    "morgan": "~1.9.1"
+    "@react-native-async-storage/async-storage": "^1.17.6",
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/native-stack": "^6.6.2",
+    "@react-navigation/stack": "^6.2.1",
+    "async-storage": "^0.1.0",
+    "expo": "~45.0.0",
+    "expo-image-picker": "~13.1.1",
+    "expo-sharing": "~10.2.0",
+    "expo-splash-screen": "~0.15.1",
+    "expo-status-bar": "~1.3.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native": "0.68.2",
+    "react-native-web": "0.17.7"
     
  
 <p float="left">
